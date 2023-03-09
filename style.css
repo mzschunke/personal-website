@@ -1,7 +1,9 @@
 body {
     color: black;
 }
-
+img {
+    border-radius: 10px;
+}
 
 h1 {
     font-style: oblique;
