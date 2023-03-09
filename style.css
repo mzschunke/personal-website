@@ -11,8 +11,9 @@ h1 {
 }
 .container {
     background-color:whitesmoke;
-    color: burlywood;
-    border-radius: 20px;
-    border-style: dotted;
+    color: rgb(218, 183, 235);
+    border-radius: 10px;
+    border-style: double;
+    width: 50px;
 }
 
