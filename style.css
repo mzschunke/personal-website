@@ -1,6 +1,10 @@
+
+
 body {
     color: black;
+    background-color: rgb(255, 255, 255);
 }
+
 img {
     border-radius: 10px;
 }
@@ -9,11 +13,19 @@ h1 {
     font-style: oblique;
     color: blue;
 }
+
 .container {
     background-color:whitesmoke;
     color: rgb(218, 183, 235);
     border-radius: 10px;
     border-style: double;
     width: 300px;
+    min-height: 1000;
 }
+
+.special {
+    background-color: rgb(76, 226, 43);
+
+}
+
 
